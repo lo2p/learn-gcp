@@ -14,3 +14,6 @@ AI MSP 베스핀글로벌의 멀티클라우드(AWS·Azure·GCP·NCP) 엔지니�
 - [Resource Management](https://www.notion.so/Resource-Management-26c5cf967b1b80a58ab6d6b5b714c782?source=copy_link)
 - [Resource Monitoring](https://www.notion.so/Resource-Monitoring-26c5cf967b1b8093b686f1fc75657062?source=copy_link)
 - [Interconnecting Networks](https://www.notion.so/Interconnecting-Networks-26c5cf967b1b8029b517e161931ab886?source=copy_link)
+- [Load Balancing and Autoscaling](https://www.notion.so/Load-Balancing-and-Autoscaling-26f5cf967b1b80a7aab1c025c0b196a2?source=copy_link)
+- [Infrastructure Automation](https://www.notion.so/Infrastructure-Automation-26f5cf967b1b8023aba8daedcf22bc4b?source=copy_link)
+- [Managed Services](https://www.notion.so/Managed-Services-26f5cf967b1b80089269ec3d1aa52308?source=copy_link)
