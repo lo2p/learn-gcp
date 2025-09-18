@@ -24,3 +24,7 @@ AI MSP 베스핀글로벌의 멀티클라우드(AWS·Azure·GCP·NCP) 엔지니�
 - [Analyzing Large Datasets with BigQuery](https://www.notion.so/Analyzing-Large-Datasets-with-BigQuery-2715cf967b1b80f094ccfab44011bd07?source=copy_link)
 - [Cleaning and Transforming your Data with Dataprep](https://www.notion.so/Cleaning-and-Transforming-your-Data-with-Dataprep-2715cf967b1b80e3893ad88f17500e89?source=copy_link)
 - [Visualizing Insights and Creating Scheduled Queries](https://www.notion.so/Visualizing-Insights-and-Creating-Scheduled-Queries-2715cf967b1b809cb3d0cdbad47468da?source=copy_link)
+- [Storing and Ingesting New Datasets](https://www.notion.so/Storing-and-Ingesting-New-Datasets-2725cf967b1b80849b2bc770809c6d30?source=copy_link)
+- [Enriching your Data Warehouse with JOINs](https://www.notion.so/Enriching-your-Data-Warehouse-with-JOINs-2725cf967b1b804a90ebfebbc30b74b1?source=copy_link)
+- [Advanced Features and Partitioning your Queries and Tables for Advanced Insights](https://www.notion.so/Advanced-Features-and-Partitioning-your-Queries-and-Tables-for-Advanced-Insights-2725cf967b1b804b819cf8d4042c7812?source=copy_link)
+- [Designing Schemas that Scale: Arrays and Structs in BigQuery](https://www.notion.so/Designing-Schemas-that-Scale-Arrays-and-Structs-in-BigQuery-2725cf967b1b8048b6bfd1e18a695345?source=copy_link)
