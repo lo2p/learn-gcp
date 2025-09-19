@@ -31,3 +31,4 @@ AI MSP 베스핀글로벌의 멀티클라우드(AWS·Azure·GCP·NCP) 엔지니�
 - [Enriching your Data Warehouse with JOINs](https://www.notion.so/Enriching-your-Data-Warehouse-with-JOINs-2725cf967b1b804a90ebfebbc30b74b1?source=copy_link)
 - [Advanced Features and Partitioning your Queries and Tables for Advanced Insights](https://www.notion.so/Advanced-Features-and-Partitioning-your-Queries-and-Tables-for-Advanced-Insights-2725cf967b1b804b819cf8d4042c7812?source=copy_link)
 - [Designing Schemas that Scale: Arrays and Structs in BigQuery](https://www.notion.so/Designing-Schemas-that-Scale-Arrays-and-Structs-in-BigQuery-2725cf967b1b8048b6bfd1e18a695345?source=copy_link)
+- [Optimizing Queries and Controlling Access](https://www.notion.so/Optimizing-Queries-and-Controlling-Access-2735cf967b1b80858dc0cb4b94ddfcdd?source=copy_link)
