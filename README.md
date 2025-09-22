@@ -32,3 +32,10 @@ AI MSP 베스핀글로벌의 멀티클라우드(AWS·Azure·GCP·NCP) 엔지니�
 - [Advanced Features and Partitioning your Queries and Tables for Advanced Insights](https://www.notion.so/Advanced-Features-and-Partitioning-your-Queries-and-Tables-for-Advanced-Insights-2725cf967b1b804b819cf8d4042c7812?source=copy_link)
 - [Designing Schemas that Scale: Arrays and Structs in BigQuery](https://www.notion.so/Designing-Schemas-that-Scale-Arrays-and-Structs-in-BigQuery-2725cf967b1b8048b6bfd1e18a695345?source=copy_link)
 - [Optimizing Queries and Controlling Access](https://www.notion.so/Optimizing-Queries-and-Controlling-Access-2735cf967b1b80858dc0cb4b94ddfcdd?source=copy_link)
+
+**Observability**
+
+- [Introduction to Google Cloud Observability](https://www.notion.so/Introduction-to-Google-Cloud-Observability-2765cf967b1b805caa86e62cdc26d4eb?source=copy_link)
+- [Monitoring Critical Systems](https://www.notion.so/Monitoring-Critical-Systems-2765cf967b1b8038afe0f5056b62a20a?source=copy_link)
+- [Alerting Policies](https://www.notion.so/Alerting-Policies-2765cf967b1b808d8b4eea622defd401?source=copy_link)
+- [Advanced Logging and Analysis](https://www.notion.so/Advanced-Logging-and-Analysis-2765cf967b1b80be8d37c0d25c2a1577?source=copy_link)
