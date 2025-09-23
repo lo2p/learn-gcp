@@ -39,3 +39,7 @@ AI MSP 베스핀글로벌의 멀티클라우드(AWS·Azure·GCP·NCP) 엔지니�
 - [Monitoring Critical Systems](https://www.notion.so/Monitoring-Critical-Systems-2765cf967b1b8038afe0f5056b62a20a?source=copy_link)
 - [Alerting Policies](https://www.notion.so/Alerting-Policies-2765cf967b1b808d8b4eea622defd401?source=copy_link)
 - [Advanced Logging and Analysis](https://www.notion.so/Advanced-Logging-and-Analysis-2765cf967b1b80be8d37c0d25c2a1577?source=copy_link)
+- [Working with Cloud Audit Logs](https://www.notion.so/Working-with-Cloud-Audit-Logs-2775cf967b1b80dabdf8f3c3df2ebbdf?source=copy_link)
+- [Configuring Google Cloud Services for Observability](https://www.notion.so/Configuring-Google-Cloud-Services-for-Observability-2775cf967b1b80078e5bd837deaecfc4?source=copy_link)
+- [Monitoring Google Cloud Network](https://www.notion.so/Monitoring-Google-Cloud-Network-2775cf967b1b80f2931dfc84c641467a?source=copy_link)
+- [Investigating Application Performance Issues](https://www.notion.so/Investigating-Application-Performance-Issues-2775cf967b1b80b1ad79d005c29e909a?source=copy_link)
